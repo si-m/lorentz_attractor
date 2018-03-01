@@ -9,6 +9,8 @@ Controls (using browser console):
 * getConstants()
 * setConstants(rho,sigma,beta)
 * reset()
-* 
+
+[wiki chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
+
 Author:
 * SiM
