@@ -1,0 +1,8 @@
+{
+  "name": "chaos",
+  "version": "1.0.0",
+  "description": "p5.js program to play with lorenz equations.",
+  "main": "chaos.js",
+  "author": "SiM",
+  "license": "MIT"
+}
