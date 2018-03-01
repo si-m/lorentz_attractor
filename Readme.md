@@ -1,4 +1,4 @@
-# Playing with p5.js and lorentz chaotic ecuations.
+# Playing with p5.js and lorentz chaotic equations.
 
 ![example](https://imgur.com/a/4B9ZF)
 
