@@ -1,7 +1,5 @@
 # Playing with p5.js and lorentz chaotic equations.
 
-![Example](https://imgur.com/nkEEP3o.jpg)
-
 Description:
 * Simple program to visualizate the lorentz attractor and play with the constants using the browser console.
 
